@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/TyphiNET/static/css/main.1459769b.chunk.css",
+    "main.js": "/TyphiNET/static/js/main.0c170918.chunk.js",
+    "main.js.map": "/TyphiNET/static/js/main.0c170918.chunk.js.map",
+    "runtime-main.js": "/TyphiNET/static/js/runtime-main.0a1d02da.js",
+    "runtime-main.js.map": "/TyphiNET/static/js/runtime-main.0a1d02da.js.map",
+    "static/js/2.15f9f1c1.chunk.js": "/TyphiNET/static/js/2.15f9f1c1.chunk.js",
+    "static/js/2.15f9f1c1.chunk.js.map": "/TyphiNET/static/js/2.15f9f1c1.chunk.js.map",
+    "index.html": "/TyphiNET/index.html",
+    "static/css/main.1459769b.chunk.css.map": "/TyphiNET/static/css/main.1459769b.chunk.css.map",
+    "static/js/2.15f9f1c1.chunk.js.LICENSE.txt": "/TyphiNET/static/js/2.15f9f1c1.chunk.js.LICENSE.txt",
+    "static/media/logo-typhinet.f503745b.png": "/TyphiNET/static/media/logo-typhinet.f503745b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a1d02da.js",
+    "static/js/2.15f9f1c1.chunk.js",
+    "static/css/main.1459769b.chunk.css",
+    "static/js/main.0c170918.chunk.js"
+  ]
+}
